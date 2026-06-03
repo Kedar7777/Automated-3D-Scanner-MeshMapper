@@ -55,7 +55,7 @@ The system software workflow relies on an unmanaged backend runtime script commu
 Developed in partial fulfillment of the requirements for the award of the degree of Bachelor of Engineering in Mechatronics Engineering under Visvesvaraya Technological University (Jnanasangama, Belagavi) at Acharya Institute of Technology.
 
 **Project Development Team:**
-* **Kedar Topajiche** - [@Kedar7777](https://github.com/Kedar7777)
+* **contributor** - [@contributor](https://github.com/contributor)
 * **Anurag Kumar**
 
 ---
